@@ -12,12 +12,4 @@ I use technical tools to improve account research, sales preparation, pipeline m
 - API-enabled business processes
 - Practical applications of Claude, OpenAI Codex, GitHub, and automation tools
 
-## Selected Projects
 
-- [Project Name](link): One-sentence explanation of what it does and why it matters.
-- [Project Name](link): One-sentence explanation of the business problem it addresses.
-
-## Connect
-
-- [LinkedIn](your-link)
-- Email: chrisjohncarpenter@gmail.com
